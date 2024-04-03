@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing application and games 
 - 🌱 I’m currently learning Express and react
 - 💞️ I’m looking to collaborate on Projects like developing games
-- 📫 You can reach me on my instagram account 
+- 📫 You can reach me on my instagram account @chambyal999
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
