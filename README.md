@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, i am a mern-stack developer + Web Designer + Digital-Marketer, i have done bachelors from Govt PG college dharamshala in the year 2022<br>👀 I’m interested in developing application and games<br>🌱 I’m currently learning Express and react<br>💞️ I’m looking to collaborate on Projects like developing games<br>📫 You can reach me on my instagram account @chambyal999<br>😄 Pronouns: ...<br>⚡ Fun fact: ...
+👋 Hi, i am a mern-stack developer + Web Designer + Digital-Marketer, i have done bachelors from Govt PG college dharamshala in the year 2022<br>👀 I’m interested in developing application and games<br>🌱 I’m currently learning Express and react<br>💞️ I’m looking to collaborate on Projects like developing games<br>📫 You can reach me on my instagram account https://www.instagram.com/chambyal_999/<br>😄 Pronouns: ...<br>⚡ Fun fact: ...
 
 
 ## 🌐 Socials:
