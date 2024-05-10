@@ -1,5 +1,12 @@
 # 💫 About Me:
-👋 Hi, i am a mern-stack developer + Web Designer + Digital-Marketer, i have done bachelors from Govt PG college dharamshala in the year 2022<br>👀 I’m interested in developing application and games<br>🌱 I’m currently learning Express and react<br>💞️ I’m looking to collaborate on Projects like developing games<br>📫 You can reach me on my instagram account https://www.instagram.com/chambyal_999/<br>😄 Pronouns: ...<br>⚡ Fun fact: ...
+
+👋 Enthusiastic Mern-Stack Developer + Web Designer + Digital-Marketer with a Bachelor’s degree in Computer Applications from Government PG College Dharamshala. Proficient in HTML, CSS, JavaScript, and back-end technologies. Successfully developed projects including a Drum Kit and a Seat Booking App and more, Eager to contribute my skills and learn from dynamic teams in the tech industry.🌱<br>
+
+👀 I'm passionate about creating dynamic and user-friendly websites and applications.📫
+
+💞️ During my studies, I've gained hands-on experience in MongoDB, Express.js and Node.js, which are the foundational technologies of the MERN stack. I've completed several projects that showcase my ability to design and develop responsive web applications, from e-commerce platforms to social media integrations.😄
+
+⚡ What excites me most about web development is the opportunity to combine creativity with problem-solving. I enjoy tackling challenges head-on and finding innovative solutions to improve user experiences. Whether it's optimizing performance or implementing new features, I'm always eager to learn and adapt to new technologies and best practices.
 
 
 ## 🌐 Socials:
