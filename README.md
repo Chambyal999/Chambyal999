@@ -46,7 +46,9 @@
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
----## 🚀 Featured Projects
+---
+
+## 🚀 Featured Projects
 
 <table width="100%">
 <tr>
@@ -97,6 +99,9 @@
 </td>
 </tr>
 </table>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
