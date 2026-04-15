@@ -51,7 +51,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
 ### 🔹 Leela Holdings Website  
 🔗 https://leelaholdings.in  
