@@ -62,7 +62,7 @@
 
 </td>
 
-<td width="50%">
+<td>
 
 ### 🔹 Infotech Platform  
 🔗 https://infotech.leelaholdings.in  
