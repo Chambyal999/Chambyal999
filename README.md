@@ -5,7 +5,7 @@
 # Hi 👋, I'm Atul Chambyal
 
 </td>
-<td align="right">
+<td align="center">
 
 <a href="https://github.com/Chambyal999">
   <img src="https://img.shields.io/github/followers/Chambyal999?label=Followers&style=social" />
