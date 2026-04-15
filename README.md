@@ -1,10 +1,14 @@
+<div>
+
 <h1 align="center">Hi 👋, I'm Atul Chambyal</h1>
 <h3 align="center">🚀 Full Stack Developer | Flutter Developer | UI/UX Enthusiast</h3>
-
-<div position="absolute" top="0">
+  
+  <div position="absolute" top="0">
   <a href="https://github.com/Chambyal999"><img src="https://img.shields.io/github/followers/Chambyal999?label=Followers&style=social" /></a>
   <a href="https://github.com/Chambyal999"><img src="https://img.shields.io/github/stars/Chambyal999?label=Stars&style=social" /></a>
 </div>
+</div>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/Chambyal999"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
