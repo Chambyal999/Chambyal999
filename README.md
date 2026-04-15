@@ -47,38 +47,57 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
-### 🔹 Leela Holdings Website
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 Leela Holdings Website  
 🔗 https://leelaholdings.in  
-- Built fully responsive website from scratch  
-- Integrated email system using SendGrid  
-- Managed hosting, deployment & performance  
 
----
+- Responsive website from scratch  
+- Email integration (SendGrid)  
+- Deployment & performance  
 
-### 🔹 Infotech Platform
+</td>
+
+<td width="50%">
+
+### 🔹 Infotech Platform  
 🔗 https://infotech.leelaholdings.in  
-- Designed custom UI theme  
-- Optimized performance & UX  
-- Built scalable frontend architecture  
 
----
+- Custom UI theme  
+- Optimized UX & performance  
+- Scalable frontend  
 
-### 🔹 Arti Studio Website
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔹 Arti Studio Website  
 🔗 https://studio.leelaholdings.in  
-- Customized and deployed a pre-built theme  
-- Improved UI layout and user experience  
-- Managed content updates and deployment  
 
-### 🔹 Food App (Flutter - Ongoing)
-- Cross-platform mobile application  
-- Clean UI & navigation architecture  
-- Real-world app structure implementation  
+- Customized pre-built theme  
+- Improved UI/UX  
+- Deployment & updates  
 
----
+</td>
 
+<td width="50%">
+
+### 🔹 Food App (Flutter)  
+🚧 Ongoing  
+
+- Cross-platform mobile app  
+- Clean UI architecture  
+- Real-world app structure  
+
+</td>
+</tr>
+</table>
 ## 📊 GitHub Stats
 
 <p align="center">
