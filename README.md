@@ -2,19 +2,49 @@
 <h3 align="center">🚀 Full Stack Developer | Flutter Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Chambyal999"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/Chambyal_999"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://behance.net/AtulChambyal"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <a href="https://github.com/Chambyal999"><img src="https://img.shields.io/github/followers/Chambyal999?label=Followers&style=social" /></a>
+  <a href="https://github.com/Chambyal999"><img src="https://img.shields.io/github/stars/Chambyal999?label=Stars&style=social" /></a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-💻 Full Stack Developer with real-world project experience  
-📱 Building cross-platform apps using Flutter  
-⚡ Focused on performance, UI/UX & scalable solutions  
-🚀 Built and deployed multiple live production websites  
+- 💻 Full Stack Developer with real-world project experience  
+- 📱 Building scalable mobile apps using Flutter  
+- 🎯 Focused on performance, clean UI & user experience  
+- ⚡ Built and deployed production-level websites independently  
+- 🚀 Currently leveling up in backend architecture & system design  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/Chambyal999"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/Chambyal_999"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+  <a href="https://behance.net/AtulChambyal"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📱 Mobile
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
@@ -22,51 +52,45 @@
 
 <p align="center">
 
-<a href="https://leelaholdings.in">
-  <img src="https://via.placeholder.com/400x200.png?text=Leela+Holdings" width="45%" />
-</a>
-<a href="https://infotech.leelaholdings.in">
-  <img src="https://via.placeholder.com/400x200.png?text=Infotech+Platform" width="45%" />
-</a>
+<div style="display:inline-block; width:48%; vertical-align:top; margin:1%;">
 
-<br><br>
+### 🔹 Leela Holdings Website  
+🔗 https://leelaholdings.in  
+- Responsive website  
+- Email integration  
+- Deployment  
 
-<b>🔹 Leela Holdings</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>🔹 Infotech Platform</b>
+</div>
 
-<br>
+<div style="display:inline-block; width:48%; vertical-align:top; margin:1%;">
 
-Responsive • SendGrid • Deployment  
-UI Theme • UX Optimization • Scalable  
+### 🔹 Infotech Platform  
+🔗 https://infotech.leelaholdings.in  
+- Custom UI theme  
+- Optimized UX  
+- Scalable frontend  
 
-<br><br>
+</div>
 
-<a href="https://studio.leelaholdings.in">
-  <img src="https://via.placeholder.com/400x200.png?text=Arti+Studio" width="45%" />
-</a>
-<a href="#">
-  <img src="https://via.placeholder.com/400x200.png?text=Food+App+(Flutter)" width="45%" />
-</a>
+<div style="display:inline-block; width:48%; vertical-align:top; margin:1%;">
 
-<br><br>
+### 🔹 Arti Studio Website  
+🔗 https://studio.leelaholdings.in  
+- Customized theme  
+- Improved UI/UX  
+- Deployment  
 
-<b>🔹 Arti Studio</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>🔹 Food App (Flutter)</b>
+</div>
 
-<br>
+<div style="display:inline-block; width:48%; vertical-align:top; margin:1%;">
 
-UI Customization • Deployment  
-Cross-platform • Clean UI  
+### 🔹 Food App (Flutter)  
+🚧 Ongoing  
+- Cross-platform app  
+- Clean UI  
+- App architecture  
 
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,js,nodejs,mongodb,flutter,dart,figma" />
+</div>
 
 </p>
 
@@ -79,24 +103,21 @@ Cross-platform • Clean UI
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chambyal999&theme=nightowl&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chambyal999&theme=nightowl&hide_border=true&layout=compact" />
+</p>
+
 ---
 
 ## 🏆 Achievements
 
 <p align="center">
 
-🚀 Built <b>3+ live production websites</b> <br><br>
-💼 Worked as <b>Web Developer at GoatCode</b> <br><br>
-📱 Developing <b>Flutter mobile application</b> <br><br>
-🌐 Managed <b>end-to-end deployment</b>
-
+🚀 Built and deployed <b>3+ live production websites</b> <br><br>
+💼 Worked as a <b>Web Developer at GoatCode</b> <br><br>
+📱 Developing a <b>Flutter mobile application</b> <br><br>
+🌐 Managed <b>end-to-end deployment & hosting</b> <br><br>
+⚡ Strong in <b>responsive UI & real-world projects</b>
 </p>
 
 ---
-
-## 📫 Contact Me
-
-<p align="center">
-  📧 chambyalatul34@gmail.com <br>
-  📍 Mohali, India
-</p>
