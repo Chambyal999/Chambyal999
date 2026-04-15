@@ -66,6 +66,12 @@
 
 ---
 
+### 🔹 Arti Studio Website
+🔗 https://studio.leelaholdings.in  
+- Customized and deployed a pre-built theme  
+- Improved UI layout and user experience  
+- Managed content updates and deployment  
+
 ### 🔹 Food App (Flutter - Ongoing)
 - Cross-platform mobile application  
 - Clean UI & navigation architecture  
