@@ -50,55 +50,49 @@
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+
+<div style="display:inline-block; width:48%; vertical-align:top; margin:1%;">
 
 ### 🔹 Leela Holdings Website  
 🔗 https://leelaholdings.in  
+- Responsive website  
+- Email integration  
+- Deployment  
 
-- Responsive website from scratch  
-- Email integration (SendGrid)  
-- Deployment & performance  
+</div>
 
-</td>
-
-<td width="50%" valign="top">
+<div style="display:inline-block; width:48%; vertical-align:top; margin:1%;">
 
 ### 🔹 Infotech Platform  
 🔗 https://infotech.leelaholdings.in  
-
 - Custom UI theme  
-- Optimized UX & performance  
+- Optimized UX  
 - Scalable frontend  
 
-</td>
-</tr>
+</div>
 
-<tr>
-<td width="50%" valign="top">
+<div style="display:inline-block; width:48%; vertical-align:top; margin:1%;">
 
 ### 🔹 Arti Studio Website  
 🔗 https://studio.leelaholdings.in  
-
-- Customized pre-built theme  
+- Customized theme  
 - Improved UI/UX  
-- Deployment & updates  
+- Deployment  
 
-</td>
+</div>
 
-<td width="50%" valign="top">
+<div style="display:inline-block; width:48%; vertical-align:top; margin:1%;">
 
 ### 🔹 Food App (Flutter)  
 🚧 Ongoing  
+- Cross-platform app  
+- Clean UI  
+- App architecture  
 
-- Cross-platform mobile app  
-- Clean UI architecture  
-- Real-world app structure  
+</div>
 
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
