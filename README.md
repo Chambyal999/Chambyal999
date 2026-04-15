@@ -94,14 +94,6 @@
 
 ## 🏆 Achievements
 
-- 🚀 Built and deployed multiple production websites  
-- 💼 Real-world development experience  
-- 📱 Expanding into mobile app development  
-
----
-
-## 🏆 Achievements
-
 <p align="center">
 
 🚀 Built and deployed <b>3+ live production websites</b> <br><br>
@@ -109,5 +101,6 @@
 📱 Developing a <b>Flutter mobile application</b> <br><br>
 🌐 Managed <b>end-to-end deployment & hosting</b> <br><br>
 ⚡ Strong in <b>responsive UI & real-world projects</b>
-
 </p>
+
+---
