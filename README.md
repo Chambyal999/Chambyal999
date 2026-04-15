@@ -21,16 +21,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/Chambyal999"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/Chambyal_999"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
-  <a href="https://behance.net/AtulChambyal"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white"/></a>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
