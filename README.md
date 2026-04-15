@@ -46,12 +46,11 @@
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
----
-## 🚀 Featured Projects
+---## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td style="width=100%">
+<td width="50%" valign="top">
 
 ### 🔹 Leela Holdings Website  
 🔗 https://leelaholdings.in  
@@ -62,7 +61,7 @@
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
 ### 🔹 Infotech Platform  
 🔗 https://infotech.leelaholdings.in  
@@ -75,7 +74,7 @@
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔹 Arti Studio Website  
 🔗 https://studio.leelaholdings.in  
@@ -86,7 +85,7 @@
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔹 Food App (Flutter)  
 🚧 Ongoing  
