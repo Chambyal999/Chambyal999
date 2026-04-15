@@ -100,6 +100,14 @@
 
 ---
 
+## 🏆 Achievements
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Chambyal999&icon=0&color=0" />
+
+🚀 Built and deployed <b>3+ live production websites</b> <br><br>
+💼 Worked as a <b>Web Developer at GoatCode</b> <br><br>
+📱 Developing a <b>Flutter mobile application</b> <br><br>
+🌐 Managed <b>end-to-end deployment & hosting</b> <br><br>
+⚡ Strong in <b>responsive UI & real-world projects</b>
+
 </p>
