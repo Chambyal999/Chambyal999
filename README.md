@@ -2,6 +2,9 @@
 <h3 align="center">🚀 Full Stack Developer | Flutter Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
+  <a href="https://linkedin.com/in/Chambyal999"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/Chambyal_999"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://behance.net/AtulChambyal"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"/></a>
   <a href="https://github.com/Chambyal999"><img src="https://img.shields.io/github/followers/Chambyal999?label=Followers&style=social" /></a>
   <a href="https://github.com/Chambyal999"><img src="https://img.shields.io/github/stars/Chambyal999?label=Stars&style=social" /></a>
 </p>
@@ -30,21 +33,11 @@
 
 ## 💻 Tech Stack
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
 
-### ⚙️ Backend
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,js,nodejs,mongodb,flutter,dart,figma" />
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+</p>
 
 ---
 
@@ -121,3 +114,10 @@
 </p>
 
 ---
+
+## 📫 Contact Me
+
+<p align="center">
+  📧 chambyalatul34@gmail.com <br>
+  📍 Mohali, India
+</p>
